@@ -1,0 +1,8 @@
+
+Ces fichiers fournissent :
+1. Une infrastructure sécurisée reproductible (CloudFormation)
+2. Des politiques IAM granulaires avec deny explicites
+3. Une gestion professionnelle des secrets
+4. Une documentation opérationnelle complète
+
+Le tout est immédiatement utilisable tout en respectant les best practices AWS.
